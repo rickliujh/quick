@@ -1,0 +1,423 @@
+{
+  "links": [
+    {
+      "id": "1766184905881042593",
+      "url": "https://github.com/rickliujh/quick",
+      "title": "https://github.com/rickliujh/quick",
+      "comment": "first try",
+      "tags": [
+        "tool",
+        "cli",
+        "productivity"
+      ],
+      "labels": {
+        "type": "url"
+      },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905852042593",
+      "url": "https://www.youtube.com/watch?v=t44PFI_V4LE",
+      "title": "An atheist explains the most convincing argument for God | Alex O'Connor",
+      "comment": "I'm quite interested in",
+      "tags": [
+        "ytb",
+        "god",
+        "religion"
+      ],
+      "labels": {
+        "type": "url"
+      },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000001",
+      "url": "https://github.com/golang/go",
+      "title": "The Go Programming Language",
+      "comment": "Go source code",
+      "tags": ["golang", "language", "compiler"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000002",
+      "url": "https://kubernetes.io/docs/home/",
+      "title": "Kubernetes Documentation",
+      "comment": "K8s reference",
+      "tags": ["k8s", "cloud", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000003",
+      "url": "https://prometheus.io/docs/introduction/overview/",
+      "title": "Prometheus Overview",
+      "comment": "Monitoring fundamentals",
+      "tags": ["monitoring", "prometheus", "metrics"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000004",
+      "url": "https://grafana.com/docs/",
+      "title": "Grafana Documentation",
+      "comment": "Visualization tool",
+      "tags": ["grafana", "dashboard", "monitoring"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000005",
+      "url": "https://www.postgresql.org/docs/",
+      "title": "PostgreSQL Documentation",
+      "comment": "Database reference",
+      "tags": ["db", "postgres", "sql"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000006",
+      "url": "https://redis.io/docs/",
+      "title": "Redis Documentation",
+      "comment": "Caching and data structures",
+      "tags": ["redis", "cache", "db"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000007",
+      "url": "https://developer.hashicorp.com/vault/docs",
+      "title": "HashiCorp Vault Documentation",
+      "comment": "Secrets management",
+      "tags": ["vault", "security", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000008",
+      "url": "https://developer.hashicorp.com/terraform/docs",
+      "title": "Terraform Documentation",
+      "comment": "IaC reference",
+      "tags": ["terraform", "iac", "cloud"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000009",
+      "url": "https://docs.aws.amazon.com/",
+      "title": "AWS Documentation",
+      "comment": "Cloud reference",
+      "tags": ["aws", "cloud", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000010",
+      "url": "https://cloud.google.com/docs",
+      "title": "Google Cloud Documentation",
+      "comment": "GCP reference",
+      "tags": ["gcp", "cloud", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000011",
+      "url": "https://openai.com/research",
+      "title": "OpenAI Research",
+      "comment": "AI research papers",
+      "tags": ["ai", "research", "ml"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000012",
+      "url": "https://arxiv.org/",
+      "title": "arXiv",
+      "comment": "Preprint papers",
+      "tags": ["research", "papers", "science"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000013",
+      "url": "https://news.ycombinator.com/",
+      "title": "Hacker News",
+      "comment": "Tech news",
+      "tags": ["news", "tech", "community"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000014",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "title": "Awesome Self‑Hosted",
+      "comment": "Self‑hosting tools",
+      "tags": ["selfhosted", "tools", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000015",
+      "url": "https://github.com/avelino/awesome-go",
+      "title": "Awesome Go",
+      "comment": "Go ecosystem",
+      "tags": ["golang", "awesome", "library"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000016",
+      "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao",
+      "title": "MIT 6.824 Distributed Systems Lecture 1",
+      "comment": "Distributed systems fundamentals",
+      "tags": ["ytb", "distributed", "systems"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000017",
+      "url": "https://www.youtube.com/watch?v=O7fQHqYfC2w",
+      "title": "Raft Consensus Algorithm",
+      "comment": "Consensus explained",
+      "tags": ["ytb", "raft", "distributed"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000018",
+      "url": "https://www.youtube.com/watch?v=ZtqBQ68cfJc",
+      "title": "How CPUs Work",
+      "comment": "Computer architecture",
+      "tags": ["ytb", "cpu", "hardware"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000019",
+      "url": "https://www.youtube.com/watch?v=8ZtInClXe1Q",
+      "title": "How Does the Internet Work",
+      "comment": "Networking basics",
+      "tags": ["ytb", "network", "internet"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000020",
+      "url": "https://www.youtube.com/watch?v=GvQwE2OhL8I",
+      "title": "Why We Sleep | Matthew Walker",
+      "comment": "Health & cognition",
+      "tags": ["ytb", "health", "science"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000021",
+      "url": "https://paulgraham.com/articles.html",
+      "title": "Paul Graham Essays",
+      "comment": "Startup wisdom",
+      "tags": ["essay", "startup", "thinking"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000022",
+      "url": "https://waitbutwhy.com/",
+      "title": "Wait But Why",
+      "comment": "Long‑form thinking",
+      "tags": ["essay", "thinking", "life"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000023",
+      "url": "https://fs.blog/",
+      "title": "Farnam Street",
+      "comment": "Mental models",
+      "tags": ["thinking", "mental-models", "learning"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000024",
+      "url": "https://www.lesswrong.com/",
+      "title": "LessWrong",
+      "comment": "Rationality community",
+      "tags": ["rationality", "ai", "thinking"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000025",
+      "url": "https://www.edge.org/",
+      "title": "Edge.org",
+      "comment": "Big questions",
+      "tags": ["science", "philosophy", "thinking"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000026",
+      "url": "https://github.com/cli/cli",
+      "title": "GitHub CLI",
+      "comment": "Useful CLI tool",
+      "tags": ["cli", "tool", "github"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000027",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "title": "lazygit",
+      "comment": "Git TUI",
+      "tags": ["git", "cli", "tui"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000028",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "title": "oh‑my‑posh",
+      "comment": "Terminal customization",
+      "tags": ["terminal", "cli", "tool"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000029",
+      "url": "https://github.com/denoland/deno",
+      "title": "Deno",
+      "comment": "Secure JS runtime",
+      "tags": ["javascript", "runtime", "tool"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000030",
+      "url": "https://github.com/neovim/neovim",
+      "title": "Neovim",
+      "comment": "Modern Vim",
+      "tags": ["editor", "vim", "tool"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000031",
+      "url": "https://www.rust-lang.org/",
+      "title": "Rust Programming Language",
+      "comment": "Memory‑safe systems programming",
+      "tags": ["rust", "language", "systems"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000032",
+      "url": "https://ziglang.org/",
+      "title": "Zig Programming Language",
+      "comment": "Low‑level language",
+      "tags": ["zig", "language", "systems"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000033",
+      "url": "https://bun.sh/",
+      "title": "Bun",
+      "comment": "Fast JS runtime",
+      "tags": ["javascript", "runtime", "tool"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000034",
+      "url": "https://vitejs.dev/",
+      "title": "Vite",
+      "comment": "Frontend tooling",
+      "tags": ["frontend", "tool", "javascript"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000035",
+      "url": "https://svelte.dev/",
+      "title": "Svelte",
+      "comment": "Frontend framework",
+      "tags": ["frontend", "framework", "javascript"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "1766184905800000036",
+      "url": "https://sqlite.org/docs.html",
+      "title": "SQLite Documentation",
+      "comment": "Embedded DB",
+      "tags": ["sqlite", "db", "storage"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000037",
+      "url": "https://litestream.io/",
+      "title": "Litestream",
+      "comment": "SQLite replication",
+      "tags": ["sqlite", "replication", "infra"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": "1766184905800000038",
+      "url": "https://fly.io/",
+      "title": "Fly.io",
+      "comment": "Global app hosting",
+      "tags": ["hosting", "infra", "cloud"],
+      "labels": { "type": "url" },
+      "open_count": 0,
+      "last_opened": "0001-01-01T00:00:00Z"
+    }
+  ]
+}
