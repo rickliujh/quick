@@ -120,6 +120,11 @@ build-dev: ## Compile binary by disable CGO and omits DWARF symbol table and deb
 	@echo Buidling binary to $(PROJ_BIN_PATH)
 	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -v -ldflags='-extldflags "-static"' -o $(PROJ_BIN_PATH)$${APP_NAME} .
 
+.PHONY: run
+run: ## run quick
+	@echo Buidling binary to $(PROJ_BIN_PATH)
+	go run ./main.go
+
 .PHONY: mock
 mock: ## Generate test mock files for interfaces
 	go generate ./...
